@@ -1,0 +1,2990 @@
+{
+  "schemaVersion": 1,
+  "snapshot": "2026-10-30T14:47:11.360Z",
+  "project": "vue-gym-training",
+  "root": ".",
+  "method": "static-local-index",
+  "limitations": [
+    "Нет динамических вызовов и сетевых интеграций",
+    "Сверять sha256 и evidence.line с текущими исходниками",
+    "Наличие зависимости не доказывает работоспособность"
+  ],
+  "nodes": [
+    {
+      "id": "project:vue-gym-training",
+      "type": "project",
+      "name": "vue-gym-training"
+    },
+    {
+      "id": "project:vue-gym-training/file:README.md",
+      "type": "file",
+      "path": "README.md",
+      "sha256": "ba9bd164cb7e6e691cde212ed2129895ee153d3475c1c9374dcc47ca112c83cd",
+      "bytes": 438
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/api.ts",
+      "type": "file",
+      "path": "docs/.vitepress/api.ts",
+      "sha256": "6c1139ad43ff9f8a8a6f4e48762d28d6c746d8f455ed6a8170f2716e0464ace5",
+      "bytes": 738
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/@theme_index.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/@theme_index.js",
+      "sha256": "21f440b362fc04c857c924e86661def8b0a9f0c0239a635dd448c873405dc848",
+      "bytes": 11255
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/axios.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/axios.js",
+      "sha256": "9c7f2b9d4c4a93bed168d0452ba3d1bec85bc007e795990f50ee5f9ead9a2858",
+      "bytes": 80314
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "sha256": "c12f327de377c8ac008344d44f76b5030320eea1aa0d5c80346dd47fced966a6",
+      "bytes": 1540
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "sha256": "6547644ff1cab5cedacfd2149e4473fe38d52baa816194c0a0dc469fcc244158",
+      "bytes": 374848
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "sha256": "7fb043d190b4a5305c953668a08419f263206bf79b0456612cf9d4469e26ebbf",
+      "bytes": 280076
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_core.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/highlight__js_lib_core.js",
+      "sha256": "14a0d1f045559ffd9b08cdd7db5e3a902fba97d28074bf3c4a8c4417ad54f924",
+      "bytes": 51421
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js",
+      "sha256": "28db7b4d1245354fc8ae981b68aee85b3c425d6768d39a794c85ffad37db8e93",
+      "bytes": 885
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/ofetch.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/ofetch.js",
+      "sha256": "60d63898517fc09f61e34b2b9c31f5ee1d1c06ac3c1097e44c2c0ed1d04585e6",
+      "bytes": 20664
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/package.json",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/package.json",
+      "sha256": "3ca9d4afd21425087cf31893b8f9f63c81b0b8408db5e343ca76e5f8aa26ab9a",
+      "bytes": 23
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js",
+      "sha256": "0c5ee0481d9c806346cf2234f3501f8e5ad9f0ae41ea8b0d8385d04194bbf4b6",
+      "bytes": 133712
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "sha256": "0af2d7e6e065c2e3a0ba02ac38d16ca58f64dd04e8ed306b3102a36df1efda11",
+      "bytes": 10369
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vue.js",
+      "type": "file",
+      "path": "docs/.vitepress/cache/deps/vue.js",
+      "sha256": "d0c1118a468e2915e8c8048b081ce1d875e2e3cd1e4490ff17b6aa80aec7c0e7",
+      "bytes": 5593
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/.vitepress/config.ts",
+      "type": "file",
+      "path": "docs/.vitepress/config.ts",
+      "sha256": "cb86002ca484a2eb24bcf8bcdefa739c2cbdff6e0548c44f099c98b37ceee276",
+      "bytes": 1852
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/index.md",
+      "type": "file",
+      "path": "docs/index.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/theme/index.ts",
+      "type": "file",
+      "path": "docs/theme/index.ts",
+      "sha256": "ffb0643272a6cc7af56fafd27a5e2d9d9a275d37a3b9053badeec5fcfc458bfb",
+      "bytes": 401
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/1.md",
+      "type": "file",
+      "path": "docs/training/1.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/19.md",
+      "type": "file",
+      "path": "docs/training/19.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/2.md",
+      "type": "file",
+      "path": "docs/training/2.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/55.md",
+      "type": "file",
+      "path": "docs/training/55.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/56.md",
+      "type": "file",
+      "path": "docs/training/56.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/57.md",
+      "type": "file",
+      "path": "docs/training/57.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/58.md",
+      "type": "file",
+      "path": "docs/training/58.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/59.md",
+      "type": "file",
+      "path": "docs/training/59.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/TrainingView.vue",
+      "type": "file",
+      "path": "docs/training/TrainingView.vue",
+      "sha256": "f6c1139e025642fe3eb68f60638004b69dd7449c2909f43fc0e598b009b762c8",
+      "bytes": 2191
+    },
+    {
+      "id": "project:vue-gym-training/file:docs/training/api.md",
+      "type": "file",
+      "path": "docs/training/api.md"
+    },
+    {
+      "id": "project:vue-gym-training/file:package.json",
+      "type": "file",
+      "path": "package.json",
+      "sha256": "ed565c7ae69bbdce5f6cd620f5b33a6a59e12ee13215ec3f9662cf7e512326af",
+      "bytes": 2422
+    },
+    {
+      "id": "project:vue-gym-training/file:src/App.vue",
+      "type": "file",
+      "path": "src/App.vue",
+      "sha256": "aad1c20967b33bd421bfe6f4727d138c87029a9d40dfd281c4029b383276ba46",
+      "bytes": 337
+    },
+    {
+      "id": "project:vue-gym-training/file:src/entities/auth/authStore.js",
+      "type": "file",
+      "path": "src/entities/auth/authStore.js",
+      "sha256": "8ad5b7c14373709ae9d9b4395a71e6b3f904c49f25a444972fceeadd3b9174c8",
+      "bytes": 1584
+    },
+    {
+      "id": "project:vue-gym-training/file:src/main.js",
+      "type": "file",
+      "path": "src/main.js",
+      "sha256": "73a79d69056c147d4e90c082075925f1b1546a13d1a1158212bfb25cb9c1ae66",
+      "bytes": 454
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/_main/components/Breadcrumbs.vue",
+      "type": "file",
+      "path": "src/modules/_main/components/Breadcrumbs.vue",
+      "sha256": "c9385c87968c2e5f564953648eb5d8833c7f125dcd4a8165f831099a32ca8dcb",
+      "bytes": 1153
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/_main/components/Header.vue",
+      "type": "file",
+      "path": "src/modules/_main/components/Header.vue",
+      "sha256": "1e8a0ac0cdf20d94b15aa7f1388d0a65fe5e8d8dd07a57e79129a641397d3887",
+      "bytes": 1834
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/_main/components/Menu.vue",
+      "type": "file",
+      "path": "src/modules/_main/components/Menu.vue",
+      "sha256": "639ec0ba67bfb10f0d43a859571b0790ee0b4d874a81f685d389b3be69652927",
+      "bytes": 3218
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/_main/store/index.js",
+      "type": "file",
+      "path": "src/modules/_main/store/index.js",
+      "sha256": "2078fa17c9a55d0ffdd25bb25c63c2ac0e53aa69fd2ca85c4e64be21ff9154cb",
+      "bytes": 644
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/api/apiClient.js",
+      "type": "file",
+      "path": "src/modules/api/apiClient.js",
+      "sha256": "4e8539fb3c716ae63cdf13b5069eb0744aec07bc68f22680fc6c8574e43a8f4e",
+      "bytes": 138
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/api/authApi.js",
+      "type": "file",
+      "path": "src/modules/api/authApi.js",
+      "sha256": "6942376eaa07335f678295da264cf6bfbc1a6838256833dfc04e1835e695ad10",
+      "bytes": 1313
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/api/authClient.js",
+      "type": "file",
+      "path": "src/modules/api/authClient.js",
+      "sha256": "799a756813618cab150f6f75b7e63937b964f5c3635404ae117b3f9c8b2afd33",
+      "bytes": 569
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/api/responseHandlers.js",
+      "type": "file",
+      "path": "src/modules/api/responseHandlers.js",
+      "sha256": "b5d5d1f4bbb05a4e0a7eda9c1e84978eedbc8f91a7a1153762c7308ebb56f4a0",
+      "bytes": 226
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/api/tokenService.js",
+      "type": "file",
+      "path": "src/modules/api/tokenService.js",
+      "sha256": "1e85fd2a2ce179e30e248a4b1840fa7cce6b2be4d3fbb8629b605ff52c7c8143",
+      "bytes": 366
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/dev/fieldsProcessor.vue",
+      "type": "file",
+      "path": "src/modules/dev/fieldsProcessor.vue",
+      "sha256": "3f2056af4f66ccfe6a8eec9a890767f9835d6856af02590116d08ea6ad654e69",
+      "bytes": 1812
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/dev/fieldsWatch.vue",
+      "type": "file",
+      "path": "src/modules/dev/fieldsWatch.vue",
+      "sha256": "85035118c92f16ad6109bf2cd8088547031dcff115ee328da488c7b3c46aac87",
+      "bytes": 6092
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/CardComment.vue",
+      "type": "file",
+      "path": "src/modules/form-2-card-noms/components/CardComment.vue",
+      "sha256": "234daf5cd2e1b24e9136b1931a65f1b8a2eca76ad044921df03258290790b7f0",
+      "bytes": 1359
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/Form2CardNoms.vue",
+      "type": "file",
+      "path": "src/modules/form-2-card-noms/components/Form2CardNoms.vue",
+      "sha256": "b70a191c5deb240861fa06cbdb55fa9810d5fd585e7675cecc5c47edd6eaf523",
+      "bytes": 3075
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-3-nom/components/Form3Card.vue",
+      "type": "file",
+      "path": "src/modules/form-3-nom/components/Form3Card.vue",
+      "sha256": "24aecda4940f83647247c645d8115013afffa838aaeca018e67c861c4bec636e",
+      "bytes": 3026
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/EditableField.vue",
+      "type": "file",
+      "path": "src/modules/form-3-nom/components/card/EditableField.vue",
+      "sha256": "c60a8ba3a5f22b412e9030a96547b253f90f011a83c87a132d442d633491e9df",
+      "bytes": 1874
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/ReadonlyField.vue",
+      "type": "file",
+      "path": "src/modules/form-3-nom/components/card/ReadonlyField.vue",
+      "sha256": "f5885de5b076c3aa640f020073cb5e97a71228154cc07673eba23d05d071838d",
+      "bytes": 2237
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/form-3-nom/utils/calculateHeight.js",
+      "type": "file",
+      "path": "src/modules/form-3-nom/utils/calculateHeight.js",
+      "sha256": "73cac33b7cd5fecabcaa53e640908392c815f276d7463eef0e08dd980cc72479",
+      "bytes": 183
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/locales.js",
+      "type": "file",
+      "path": "src/modules/locales.js",
+      "sha256": "86afaa66b561f97e40e514e3524ceb9f557a3baac0c6955ecb35b7eee0800a93",
+      "bytes": 546
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/modal-tools/api/tools.js",
+      "type": "file",
+      "path": "src/modules/modal-tools/api/tools.js",
+      "sha256": "d6f31ce6710195e9aba3259094c1afc104e219aeb34e1441793238ad6cb12d89",
+      "bytes": 366
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/modal-tools/components/AddedInstrumentsTable.vue",
+      "type": "file",
+      "path": "src/modules/modal-tools/components/AddedInstrumentsTable.vue",
+      "sha256": "d8a758d3abd1e884bc0a8568d637e3699dbef26179d77a0c653d99378af7ea4c",
+      "bytes": 4541
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/modal-tools/components/PagesModalTools.vue",
+      "type": "file",
+      "path": "src/modules/modal-tools/components/PagesModalTools.vue",
+      "sha256": "5026c9d9c5d2845d668bf516ec33292810b20ea4e73a000496f7b2b101d72553",
+      "bytes": 4237
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/modal-tools/components/ProposedInstrumentsTable.vue",
+      "type": "file",
+      "path": "src/modules/modal-tools/components/ProposedInstrumentsTable.vue",
+      "sha256": "704cb9e7b841cca9442c092c1f1b93326c97300c4cc05f8253313aa4fb1e4cd8",
+      "bytes": 4314
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/common/WarningMessage.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/common/WarningMessage.vue",
+      "sha256": "be08a2f1117acb15c36c5cdabbadab70e2d389e789b379680d0f057efa025651",
+      "bytes": 555
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/forms/DateRangeFilters.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/forms/DateRangeFilters.vue",
+      "sha256": "a09e3c2afb73e32f4a98a8f2a7c32d8213108f640f0fbab8b0f3e90759f82a37",
+      "bytes": 1744
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/pagination/PageSizeSelector.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/pagination/PageSizeSelector.vue",
+      "sha256": "235d39ecd049df17913a8fcd3a6744979729f22e342c0f728d6e5f50fd6a752b",
+      "bytes": 904
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/pagination/Pagination.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/pagination/Pagination.vue",
+      "sha256": "59ff6adc7022cf228a628942d25ebac9cff56acace0a29068740e47622f52a1b",
+      "bytes": 3983
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/search/SearchBar.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/search/SearchBar.vue",
+      "sha256": "d0c1df73175ecba259b1887e901c47d09581537ad4531478e174ea261d203eb0",
+      "bytes": 1807
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/ui/BackButton.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/ui/BackButton.vue",
+      "sha256": "697f7c54fbebea87f2f09e45dd6ee804071f54e848ae18ebc0e613d299daec9c",
+      "bytes": 1371
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/ui/LoadingSpinner.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/ui/LoadingSpinner.vue",
+      "sha256": "7106df286e1970be17d0060ceef45981525af6b846c3e5a80a4a2f582ab45000",
+      "bytes": 539
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/ui/StatusDisplay.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/ui/StatusDisplay.vue",
+      "sha256": "202cc8a68de60779eccaaa98758f7477ebd10db43687d9715c01664f60d8bff3",
+      "bytes": 1934
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/ui/StrategyDisplay.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/ui/StrategyDisplay.vue",
+      "sha256": "f2b330fabe7ba83630dc9c36b2a603141b9ace126f9c03d3289d0024c5529634",
+      "bytes": 3609
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/components/ui/ThinProgressBar.vue",
+      "type": "file",
+      "path": "src/modules/shared/components/ui/ThinProgressBar.vue",
+      "sha256": "3f0413008ff27b7d766350496b0367309a82482349d072e776c0e3bef4854846",
+      "bytes": 2024
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/logic/statuses.js",
+      "type": "file",
+      "path": "src/modules/shared/logic/statuses.js",
+      "sha256": "18040e648ded16ebed96f4e5b520724d40b1d0b2c541c327263897e7d8e94b09",
+      "bytes": 2350
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka-server/ServerSideSborka.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka-server/ServerSideSborka.vue",
+      "sha256": "fe1c854b0b318c74a6c68ec5a4ec3464717189e2766dce44ac3bbd77f6019ad2",
+      "bytes": 3971
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+      "sha256": "1b151836ad88e47ebbd95fe8a95748f67aba41e017afd043c88a30ad73f722e7",
+      "bytes": 2164
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborMain.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka/SborMain.vue",
+      "sha256": "306d3d48fd09b8f40b6a429790daf5e0e33f4ff7ebf55e65b3bc512ae7d0f774",
+      "bytes": 2947
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborRow.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka/SborRow.vue",
+      "sha256": "d1c33c9908fb32699b29f77d1538a0cce414c98eb5084bac998a472beb670045",
+      "bytes": 5370
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka/api/update.js",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka/api/update.js",
+      "sha256": "a2057acf4b1fa7f28bdd3cdc997ee6e5e43fe384f9776151fc0a1d07db9684ea",
+      "bytes": 333
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/sborka/tableStore.js",
+      "type": "file",
+      "path": "src/modules/shared/tables/sborka/tableStore.js",
+      "sha256": "0c1c5f0ab6f0dc549700a192af84f2a59c859f02210e1a95a0f4dd079d6b7b4a",
+      "bytes": 1656
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/table-server/DataTable.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/table-server/DataTable.vue",
+      "sha256": "f4c4d2bd86273d657987e10a092a7279df7a4490549f017bd0a5f14985fd90c1",
+      "bytes": 5001
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/table-server/EditModal.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/table-server/EditModal.vue",
+      "sha256": "c30e7e8dc54d035cc116e891f37390f8d36d9953d6e4ff5db579fe8970023bd6",
+      "bytes": 2847
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/table-server/PaginatedDataTable.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/table-server/PaginatedDataTable.vue",
+      "sha256": "74d7fdf0c18deb486d8ab482e96b11cebc2a3886c9fed59ed740fc7b88cb4630",
+      "bytes": 4483
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/tables/table/BaseTable.vue",
+      "type": "file",
+      "path": "src/modules/shared/tables/table/BaseTable.vue",
+      "sha256": "eb19b1a89fa49544ae00ce7ea0c64c48d151a58e359b5fe249c598931a66bbf4",
+      "bytes": 3148
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/zagotovka/ModalZagotovka.vue",
+      "type": "file",
+      "path": "src/modules/shared/zagotovka/ModalZagotovka.vue",
+      "sha256": "32ea09440d7e7f8cde52577f3b59652bb7b43e0024161d4c716044500e7cf666",
+      "bytes": 3517
+    },
+    {
+      "id": "project:vue-gym-training/file:src/modules/shared/zagotovka/api/zagotovka.js",
+      "type": "file",
+      "path": "src/modules/shared/zagotovka/api/zagotovka.js",
+      "sha256": "1f239af9b248b055a6dbf441c02f9bb44882f2bca0664a39d2bbe7299fd48770",
+      "bytes": 589
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/Home.vue",
+      "type": "file",
+      "path": "src/pages/admin/Home.vue",
+      "sha256": "f874e01808081889b722189b9d5681fa1086bc55793fa51456071c1d6ce51db7",
+      "bytes": 4207
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/Structure.vue",
+      "type": "file",
+      "path": "src/pages/admin/Structure.vue",
+      "sha256": "83ecb1cae2a34c6fc3dae583352829ece5e94954a13c614c9e05449b0d3866af",
+      "bytes": 1391
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "sha256": "2b632da95e2373a7288133160e169a04e89137636615ed106c2c9e9489d5db4d",
+      "bytes": 4140
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/PagesViewer.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/PagesViewer.vue",
+      "sha256": "91251d9b070725b21fd15700be30b088d9b5e24c5746cb2f826e18abe413ad13",
+      "bytes": 240
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+      "sha256": "ab119dcf04b944136db454d69326b6a9e45736a1894f19f922d543ebbccbd511",
+      "bytes": 492
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/CollapsibleSection.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/components/CollapsibleSection.vue",
+      "sha256": "0e7e2baad24dd186361282b584b9b81c3b9eacd4cf7037ea4d5d62964bb17362",
+      "bytes": 698
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/EmitsList.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/components/EmitsList.vue",
+      "sha256": "b0c2fadd98110d2e749b7257dc46fb82a43e3201b23b01f0de426877b78cf0b2",
+      "bytes": 355
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/MethodsList.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/components/MethodsList.vue",
+      "sha256": "4a8efe8fed6577ebf75e6d0eaebb41351a0316c48eaaea3116d179adbc4dfe4a",
+      "bytes": 902
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/PropsList.vue",
+      "type": "file",
+      "path": "src/pages/admin/dynamic-docs/components/PropsList.vue",
+      "sha256": "224421b6a6f328d0a77f462c4f1d194b081ad2ee3ccabbba4537756465db591e",
+      "bytes": 612
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/auth/Login.vue",
+      "type": "file",
+      "path": "src/pages/auth/Login.vue",
+      "sha256": "7e206dd4c7fb798a47c4107c5c759763e40639931d69eb8a07eaacaba04513c7",
+      "bytes": 2797
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-1/PagesClients.vue",
+      "type": "file",
+      "path": "src/pages/form-1/PagesClients.vue",
+      "sha256": "c32cbe8148ab2ddc46df275400e39ba3cc4c98ed13d65e20037f6d0390d66df4",
+      "bytes": 3710
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-1/PagesTableWrapper.vue",
+      "type": "file",
+      "path": "src/pages/form-1/PagesTableWrapper.vue",
+      "sha256": "369fdc472bd62949643ab37fb70683644e36c26dcdd3027770caea2c9d135e8b",
+      "bytes": 4036
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-1/api/clients.js",
+      "type": "file",
+      "path": "src/pages/form-1/api/clients.js",
+      "sha256": "e84df35a2ba9c52bfa1cb1c5035c9d5b9a36378cba8a2d9881e6bb772aa903cb",
+      "bytes": 417
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-1/api/list.js",
+      "type": "file",
+      "path": "src/pages/form-1/api/list.js",
+      "sha256": "cac760e9e74cc89dd6dffff013f4124045100fe88c5e4cab32f7d717ce0e0920",
+      "bytes": 813
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-2/PagesCardNoms.vue",
+      "type": "file",
+      "path": "src/pages/form-2/PagesCardNoms.vue",
+      "sha256": "92416fe336472a38fba8229b64f392c251c9ee51ca5525839b7a09a51a8266f1",
+      "bytes": 2907
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-2/PagesClientNoms.vue",
+      "type": "file",
+      "path": "src/pages/form-2/PagesClientNoms.vue",
+      "sha256": "759759b27c28cff1f7c6cb1c55eead4ffb44968973ce59b4c777a82507f9dde2",
+      "bytes": 3548
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-2/api/nom_dir.js",
+      "type": "file",
+      "path": "src/pages/form-2/api/nom_dir.js",
+      "sha256": "66271350ff6027467ac75fe2fbc15998695bdd04cdf900787e362f0587dbf9e9",
+      "bytes": 640
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-2/api/nom_list.js",
+      "type": "file",
+      "path": "src/pages/form-2/api/nom_list.js",
+      "sha256": "bccefd55c181732edb0e18476c640320c9589c03ca9e2d38cf0909f110ebaa39",
+      "bytes": 1410
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-3/PagesDetailNom.vue",
+      "type": "file",
+      "path": "src/pages/form-3/PagesDetailNom.vue",
+      "sha256": "8c04e7294ad89d500c1125252e4688957f4e0104a7add17a0cb01dc43ab3c7fa",
+      "bytes": 3762
+    },
+    {
+      "id": "project:vue-gym-training/file:src/pages/form-3/api/nom_info.js",
+      "type": "file",
+      "path": "src/pages/form-3/api/nom_info.js",
+      "sha256": "1a1af93403aa3be94e84f095a3242bb16e7d0eaf780ffd66de8da90abb65840d",
+      "bytes": 792
+    },
+    {
+      "id": "project:vue-gym-training/file:src/router.js",
+      "type": "file",
+      "path": "src/router.js",
+      "sha256": "9b99074281227239b91c69505053558900cd28b438228a0785afb014f5cebe99",
+      "bytes": 5443
+    },
+    {
+      "id": "project:vue-gym-training/file:src/store/home.module.js",
+      "type": "file",
+      "path": "src/store/home.module.js",
+      "sha256": "44f36d22187f7860963830d63e784f9ce420b8b748137058860a4374225677a2",
+      "bytes": 772
+    },
+    {
+      "id": "project:vue-gym-training/file:src/utils/dev/fieldsProcessor.js",
+      "type": "file",
+      "path": "src/utils/dev/fieldsProcessor.js",
+      "sha256": "8ff2a4b634d147dacd4a60a43a053f009198181e5d15d5f294e7078db352c736",
+      "bytes": 2864
+    },
+    {
+      "id": "project:vue-gym-training/file:src/utils/formatters.js",
+      "type": "file",
+      "path": "src/utils/formatters.js",
+      "sha256": "67b8b8bb44ed2db1a16928fade67d066fce2b6f40d48f7a3432dc271bcf53d7f",
+      "bytes": 8326
+    },
+    {
+      "id": "project:vue-gym-training/file:src/utils/icons.js",
+      "type": "file",
+      "path": "src/utils/icons.js",
+      "sha256": "5217e1487ab9476b7214a72cf3eabfcffb0266b3cff0102329f08d53af5cdb7c",
+      "bytes": 636
+    },
+    {
+      "id": "project:vue-gym-training/file:src/utils/localize-ru.js",
+      "type": "file",
+      "path": "src/utils/localize-ru.js",
+      "sha256": "172d5868eafe3338d1e6b069c5e56515ed3526604b4c223d2d2c6fac5f57111c",
+      "bytes": 282
+    },
+    {
+      "id": "project:vue-gym-training/file:vite.config.js",
+      "type": "file",
+      "path": "vite.config.js",
+      "sha256": "f5c1289cd2e8dc1dcdc7708d58dce3afa3fe12a6adb277ac9819bdd27651f0cd",
+      "bytes": 629
+    },
+    {
+      "id": "package:npm:@fortawesome/fontawesome-svg-core",
+      "type": "package",
+      "name": "@fortawesome/fontawesome-svg-core",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@fortawesome/free-regular-svg-icons",
+      "type": "package",
+      "name": "@fortawesome/free-regular-svg-icons",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@fortawesome/free-solid-svg-icons",
+      "type": "package",
+      "name": "@fortawesome/free-solid-svg-icons",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@fortawesome/vue-fontawesome",
+      "type": "package",
+      "name": "@fortawesome/vue-fontawesome",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@jamescoyle/vue-icon",
+      "type": "package",
+      "name": "@jamescoyle/vue-icon",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@mdi/js",
+      "type": "package",
+      "name": "@mdi/js",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@popperjs/core",
+      "type": "package",
+      "name": "@popperjs/core",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@typescript-eslint/parser",
+      "type": "package",
+      "name": "@typescript-eslint/parser",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/language-server",
+      "type": "package",
+      "name": "@vue/language-server",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:axios",
+      "type": "package",
+      "name": "axios",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:bootstrap",
+      "type": "package",
+      "name": "bootstrap",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:bootstrap-datepicker",
+      "type": "package",
+      "name": "bootstrap-datepicker",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:bootstrap-daterangepicker",
+      "type": "package",
+      "name": "bootstrap-daterangepicker",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:cypress",
+      "type": "package",
+      "name": "cypress",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:datatables.net-bs5",
+      "type": "package",
+      "name": "datatables.net-bs5",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:datatables.net-dt",
+      "type": "package",
+      "name": "datatables.net-dt",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:datatables.net-vue3",
+      "type": "package",
+      "name": "datatables.net-vue3",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:date-fns",
+      "type": "package",
+      "name": "date-fns",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:dayjs",
+      "type": "package",
+      "name": "dayjs",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-import",
+      "type": "package",
+      "name": "eslint-plugin-import",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:highlight.js",
+      "type": "package",
+      "name": "highlight.js",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:jquery",
+      "type": "package",
+      "name": "jquery",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:lodash",
+      "type": "package",
+      "name": "lodash",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:moment",
+      "type": "package",
+      "name": "moment",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:ofetch",
+      "type": "package",
+      "name": "ofetch",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:pinia",
+      "type": "package",
+      "name": "pinia",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue",
+      "type": "package",
+      "name": "vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue-i18n",
+      "type": "package",
+      "name": "vue-i18n",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue-moment",
+      "type": "package",
+      "name": "vue-moment",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue-router",
+      "type": "package",
+      "name": "vue-router",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vue3-datepicker",
+      "type": "package",
+      "name": "vue3-datepicker",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@eslint/js",
+      "type": "package",
+      "name": "@eslint/js",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@types/node",
+      "type": "package",
+      "name": "@types/node",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@typescript-eslint/eslint-plugin",
+      "type": "package",
+      "name": "@typescript-eslint/eslint-plugin",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vitejs/plugin-vue",
+      "type": "package",
+      "name": "@vitejs/plugin-vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/runtime-dom",
+      "type": "package",
+      "name": "@vue/runtime-dom",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:@vue/test-utils",
+      "type": "package",
+      "name": "@vue/test-utils",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint",
+      "type": "package",
+      "name": "eslint",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-config-prettier",
+      "type": "package",
+      "name": "eslint-config-prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-jest",
+      "type": "package",
+      "name": "eslint-plugin-jest",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-prettier",
+      "type": "package",
+      "name": "eslint-plugin-prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-sonarjs",
+      "type": "package",
+      "name": "eslint-plugin-sonarjs",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-unicorn",
+      "type": "package",
+      "name": "eslint-plugin-unicorn",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-unused-imports",
+      "type": "package",
+      "name": "eslint-plugin-unused-imports",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:eslint-plugin-vue",
+      "type": "package",
+      "name": "eslint-plugin-vue",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:globals",
+      "type": "package",
+      "name": "globals",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:prettier",
+      "type": "package",
+      "name": "prettier",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:typescript",
+      "type": "package",
+      "name": "typescript",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:typescript-eslint",
+      "type": "package",
+      "name": "typescript-eslint",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vite",
+      "type": "package",
+      "name": "vite",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vite-plugin-html",
+      "type": "package",
+      "name": "vite-plugin-html",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vite-plugin-vue-devtools",
+      "type": "package",
+      "name": "vite-plugin-vue-devtools",
+      "ecosystem": "npm"
+    },
+    {
+      "id": "package:npm:vitepress",
+      "type": "package",
+      "name": "vitepress",
+      "ecosystem": "npm"
+    }
+  ],
+  "edges": [
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/api.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/api.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/@theme_index.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/@theme_index.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/axios.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/axios.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/chunk-G3PMV62Z.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/chunk-SYPOPCWC.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_core.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/highlight__js_lib_core.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/ofetch.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/ofetch.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/package.json",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/package.json"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vueuse_core.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vue.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vue.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/.vitepress/config.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/.vitepress/config.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/index.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/index.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/theme/index.ts",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/theme/index.ts"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/1.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/1.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/19.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/19.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/2.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/2.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/55.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/55.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/56.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/56.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/57.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/57.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/58.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/58.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/59.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/59.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/TrainingView.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/TrainingView.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:docs/training/api.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "docs/training/api.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:package.json",
+      "relation": "contains",
+      "evidence": {
+        "path": "package.json"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/App.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/App.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/entities/auth/authStore.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/entities/auth/authStore.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/main.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/main.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/_main/components/Breadcrumbs.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/_main/components/Breadcrumbs.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/_main/components/Header.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/_main/components/Header.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/_main/components/Menu.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/_main/components/Menu.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/_main/store/index.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/_main/store/index.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/api/apiClient.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/api/apiClient.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/api/authApi.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/api/authApi.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/api/authClient.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/api/authClient.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/api/responseHandlers.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/api/responseHandlers.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/api/tokenService.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/api/tokenService.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/dev/fieldsProcessor.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/dev/fieldsProcessor.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/dev/fieldsWatch.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/dev/fieldsWatch.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/CardComment.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-2-card-noms/components/CardComment.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/Form2CardNoms.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-2-card-noms/components/Form2CardNoms.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/components/Form3Card.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/Form3Card.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/EditableField.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/card/EditableField.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/ReadonlyField.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/card/ReadonlyField.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/utils/calculateHeight.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/form-3-nom/utils/calculateHeight.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/locales.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/locales.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/api/tools.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/modal-tools/api/tools.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/components/AddedInstrumentsTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/AddedInstrumentsTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/components/PagesModalTools.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/PagesModalTools.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/components/ProposedInstrumentsTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/ProposedInstrumentsTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/common/WarningMessage.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/common/WarningMessage.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/forms/DateRangeFilters.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/forms/DateRangeFilters.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/pagination/PageSizeSelector.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/pagination/PageSizeSelector.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/pagination/Pagination.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/pagination/Pagination.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/search/SearchBar.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/search/SearchBar.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/ui/BackButton.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/ui/BackButton.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/ui/LoadingSpinner.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/ui/LoadingSpinner.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/ui/StatusDisplay.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/ui/StatusDisplay.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/ui/StrategyDisplay.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/ui/StrategyDisplay.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/components/ui/ThinProgressBar.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/components/ui/ThinProgressBar.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/logic/statuses.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/logic/statuses.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka-server/ServerSideSborka.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka-server/ServerSideSborka.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborMain.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/SborMain.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborRow.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/SborRow.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/api/update.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/api/update.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/tableStore.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/tableStore.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table-server/DataTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/table-server/DataTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table-server/EditModal.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/table-server/EditModal.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table-server/PaginatedDataTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/table-server/PaginatedDataTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table/BaseTable.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/tables/table/BaseTable.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/zagotovka/ModalZagotovka.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/zagotovka/ModalZagotovka.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/modules/shared/zagotovka/api/zagotovka.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/modules/shared/zagotovka/api/zagotovka.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/Home.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/Home.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/Structure.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/Structure.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/PagesViewer.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/PagesViewer.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/ChildrenList.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/CollapsibleSection.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/CollapsibleSection.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/EmitsList.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/EmitsList.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/MethodsList.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/MethodsList.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/PropsList.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/PropsList.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/auth/Login.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/auth/Login.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-1/PagesClients.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-1/PagesClients.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-1/PagesTableWrapper.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-1/PagesTableWrapper.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-1/api/clients.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-1/api/clients.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-1/api/list.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-1/api/list.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-2/PagesCardNoms.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-2/PagesCardNoms.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-2/PagesClientNoms.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-2/PagesClientNoms.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-2/api/nom_dir.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-2/api/nom_dir.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-2/api/nom_list.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-2/api/nom_list.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-3/PagesDetailNom.vue",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-3/PagesDetailNom.vue"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/pages/form-3/api/nom_info.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/pages/form-3/api/nom_info.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/router.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/router.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/store/home.module.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/store/home.module.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/utils/dev/fieldsProcessor.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/utils/dev/fieldsProcessor.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/utils/formatters.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/utils/formatters.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/utils/icons.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/utils/icons.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:src/utils/localize-ru.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "src/utils/localize-ru.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training",
+      "target": "project:vue-gym-training/file:vite.config.js",
+      "relation": "contains",
+      "evidence": {
+        "path": "vite.config.js"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/main.js",
+      "target": "project:vue-gym-training/file:src/router.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/main.js",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/main.js",
+      "target": "project:vue-gym-training/file:src/App.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/main.js",
+        "line": 5
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/form-1/PagesClients.vue",
+      "target": "project:vue-gym-training/file:src/pages/form-1/api/clients.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/form-1/PagesClients.vue",
+        "line": 32
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/form-2/PagesCardNoms.vue",
+      "target": "project:vue-gym-training/file:src/pages/form-2/api/nom_list.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/form-2/PagesCardNoms.vue",
+        "line": 24
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/form-2/PagesClientNoms.vue",
+      "target": "project:vue-gym-training/file:src/pages/form-2/api/nom_dir.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/form-2/PagesClientNoms.vue",
+        "line": 32
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/form-3/PagesDetailNom.vue",
+      "target": "project:vue-gym-training/file:src/pages/form-3/api/nom_info.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/form-3/PagesDetailNom.vue",
+        "line": 50
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/@theme_index.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/@theme_index.js",
+        "line": 3
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/@theme_index.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/@theme_index.js",
+        "line": 9
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/@theme_index.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/@theme_index.js",
+        "line": 10
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/axios.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/axios.js",
+        "line": 3
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+        "line": 38
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_core.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/highlight__js_lib_core.js",
+        "line": 4
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/highlight__js_lib_languages_json.js",
+        "line": 1
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/ofetch.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/ofetch.js",
+        "line": 1
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js",
+        "line": 1
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-SYPOPCWC.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+        "line": 284
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+        "line": 285
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vitepress___@vueuse_core.js",
+        "line": 286
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vue.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-JD3CXNQ6.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vue.js",
+        "line": 171
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:docs/.vitepress/cache/deps/vue.js",
+      "target": "project:vue-gym-training/file:docs/.vitepress/cache/deps/chunk-G3PMV62Z.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "docs/.vitepress/cache/deps/vue.js",
+        "line": 172
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/_main/components/Header.vue",
+      "target": "project:vue-gym-training/file:src/modules/_main/components/Breadcrumbs.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/_main/components/Header.vue",
+        "line": 34
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/Form2CardNoms.vue",
+      "target": "project:vue-gym-training/file:src/modules/form-2-card-noms/components/CardComment.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/form-2-card-noms/components/Form2CardNoms.vue",
+        "line": 36
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/form-3-nom/components/Form3Card.vue",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/EditableField.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/Form3Card.vue",
+        "line": 48
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/form-3-nom/components/Form3Card.vue",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/ReadonlyField.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/Form3Card.vue",
+        "line": 49
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/modal-tools/components/PagesModalTools.vue",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/components/AddedInstrumentsTable.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/PagesModalTools.vue",
+        "line": 64
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/modal-tools/components/PagesModalTools.vue",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/components/ProposedInstrumentsTable.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/PagesModalTools.vue",
+        "line": 65
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/modal-tools/components/PagesModalTools.vue",
+      "target": "project:vue-gym-training/file:src/modules/modal-tools/api/tools.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/modal-tools/components/PagesModalTools.vue",
+        "line": 66
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/zagotovka/ModalZagotovka.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/zagotovka/api/zagotovka.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/zagotovka/ModalZagotovka.vue",
+        "line": 60
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/CollapsibleSection.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+        "line": 37
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/PropsList.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+        "line": 38
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/MethodsList.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+        "line": 39
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/EmitsList.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+        "line": 40
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/InfoComponent.vue",
+        "line": 41
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/PagesViewer.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/PagesViewer.vue",
+        "line": 9
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/form-3-nom/components/card/EditableField.vue",
+      "target": "project:vue-gym-training/file:src/modules/form-3-nom/utils/calculateHeight.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/form-3-nom/components/card/EditableField.vue",
+        "line": 47
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka-server/ServerSideSborka.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborMain.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka-server/ServerSideSborka.vue",
+        "line": 42
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/tableStore.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+        "line": 42
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborMain.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborRow.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/SborMain.vue",
+        "line": 43
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborMain.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/PendingUpdatesOverlay.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/SborMain.vue",
+        "line": 44
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka/SborRow.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/tableStore.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/SborRow.vue",
+        "line": 102
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/sborka/tableStore.js",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/sborka/api/update.js",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/sborka/tableStore.js",
+        "line": 2
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/table-server/DataTable.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table-server/EditModal.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/table-server/DataTable.vue",
+        "line": 88
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/modules/shared/tables/table-server/PaginatedDataTable.vue",
+      "target": "project:vue-gym-training/file:src/modules/shared/tables/table-server/DataTable.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/modules/shared/tables/table-server/PaginatedDataTable.vue",
+        "line": 52
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+      "target": "project:vue-gym-training/file:src/pages/admin/dynamic-docs/InfoComponent.vue",
+      "relation": "imports_local",
+      "evidence": {
+        "path": "src/pages/admin/dynamic-docs/components/ChildrenList.vue",
+        "line": 14
+      },
+      "method": "lexical-existing-file"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@fortawesome/fontawesome-svg-core",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 19
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@fortawesome/free-regular-svg-icons",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 20
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@fortawesome/free-solid-svg-icons",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 21
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@fortawesome/vue-fontawesome",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 22
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@jamescoyle/vue-icon",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 23
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@mdi/js",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 24
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@popperjs/core",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 25
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@typescript-eslint/parser",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 26
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@vue/language-server",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 27
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:axios",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 28
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:bootstrap",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 29
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:bootstrap-datepicker",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 30
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:bootstrap-daterangepicker",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 31
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:cypress",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 13
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:datatables.net-bs5",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 33
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:datatables.net-dt",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 34
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:datatables.net-vue3",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 35
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:date-fns",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 36
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:dayjs",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 37
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-import",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 38
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:highlight.js",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 39
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:jquery",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 40
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:lodash",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 41
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:moment",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 42
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:ofetch",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 43
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:pinia",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 44
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vue",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 45
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vue-i18n",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 46
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vue-moment",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 47
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vue-router",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 48
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vue3-datepicker",
+      "relation": "declares_dependency",
+      "kind": "dependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 49
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@eslint/js",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 52
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@types/node",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 53
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@typescript-eslint/eslint-plugin",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 54
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@vitejs/plugin-vue",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 55
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@vue/runtime-dom",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 56
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:@vue/test-utils",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 57
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 12
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-config-prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 59
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-jest",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 60
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 61
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-sonarjs",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 62
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-unicorn",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 63
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-unused-imports",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 64
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:eslint-plugin-vue",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 65
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:globals",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 66
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:prettier",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 11
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:typescript",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 68
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:typescript-eslint",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 69
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vite",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 7
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vite-plugin-html",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 71
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vite-plugin-vue-devtools",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 72
+      },
+      "method": "manifest"
+    },
+    {
+      "source": "project:vue-gym-training/file:package.json",
+      "target": "package:npm:vitepress",
+      "relation": "declares_dependency",
+      "kind": "devDependencies",
+      "evidence": {
+        "path": "package.json",
+        "line": 73
+      },
+      "method": "manifest"
+    }
+  ]
+}
